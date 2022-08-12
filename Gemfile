@@ -72,3 +72,5 @@ group :development, :test do
 end
 
 gem "tailwindcss-rails", "~> 2.0"
+
+gem "byebug"
